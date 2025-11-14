@@ -1,0 +1,11 @@
+2025-10-29 20:15:00,545 [INFO] Auto-detected text column: transcript
+2025-10-29 20:15:00,546 [INFO] Using text column: transcript
+2025-10-29 20:15:00,546 [INFO] Starting labeling for 44070 rows (SAMPLE_LIMIT=None)
+2025-10-29 20:47:08,545 [INFO] Checkpoint at 500 — saving transcripts_with_labels.csv and failed list.
+2025-10-29 21:41:27,181 [WARNING] Ollama call failed for row 988 (attempt 1), sleeping 2.0s then retrying.
+2025-10-29 21:42:39,807 [INFO] Checkpoint at 1000 — saving transcripts_with_labels.csv and failed list.
+2025-10-30 01:05:05,679 [WARNING] Ollama call failed for row 1031 (attempt 1), sleeping 2.0s then retrying.
+2025-10-30 05:58:02,506 [WARNING] Ollama call failed for row 1031 (attempt 2), sleeping 4.0s then retrying.
+2025-10-30 05:59:08,941 [WARNING] Ollama call failed for row 1031 (attempt 3), sleeping 8.0s then retrying.
+2025-10-30 06:57:54,732 [WARNING] Ollama call failed for row 1133 (attempt 1), sleeping 2.0s then retrying.
+2025-10-30 08:19:48,990 [INFO] Checkpoint at 1500 — saving transcripts_with_labels.csv and failed list.
